@@ -1,6 +1,11 @@
-# Dir 清理规则
+# 非官方 Dir 清理规则
 
-这个 Repo 用于存储 Yuuta 开发的 `kh.android.dir` [Dir 垃圾清理](https://coolapk.com/apk/kh.android.dir) 的清理规则。
+这个 Repo 用于存储 Yuuta 开发的 `kh.android.dir` [Dir 垃圾清理](https://coolapk.com/apk/kh.android.dir) 的非官方清理规则，每周末审核一遍Pull 请求，该源的某些错误规则可能会造成误删某些文件。
+
+
+
+
+ 
 
 ## 目前暂不支持
 
